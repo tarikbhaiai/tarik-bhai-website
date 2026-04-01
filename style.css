@@ -1,0 +1,27 @@
+.tarik-bhai {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+}
